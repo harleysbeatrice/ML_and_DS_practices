@@ -8,3 +8,5 @@ The data used for the movie_recommendation_system.py cannot be uploaded due to i
 https://thecleverprogrammer.com/wp-content/uploads/2020/05/tmdb_5000_movies.csv
 
 https://thecleverprogrammer.com/wp-content/uploads/2020/05/tmdb_5000_credits.csv
+
+winequality-red.csv and winequality-white.csv -> Datasets used for wine_quality_assesment linear regression model
